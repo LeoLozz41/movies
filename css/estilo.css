@@ -1,0 +1,40 @@
+h1{
+    font-size: 1.05rem;
+    color: rgb(138, 43, 226)
+}
+
+h2{
+    font-size: 1.25rem;
+    color: #8a2be2;
+}
+
+h3{
+    font-size: 1.5;
+    color: hsl(271, 76%, 53%);
+}
+
+h4{
+    font-size: 1.75;
+    color: rgb(138, 43, 226); 
+}
+h5{
+    font-size: 2rem; ;
+    color: #8a2be2;
+}
+
+h6{
+    font-size: 2.5rem;
+    color: hsl(271, 76%, 53%);
+}
+
+#text-container{
+    font-size: 1.5em;
+}
+
+#bla{
+    width: 30%;
+}
+
+#dra{
+    width: 15%;
+}
